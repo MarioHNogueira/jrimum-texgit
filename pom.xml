@@ -194,11 +194,11 @@
 	<repositories>
 		<repository>
 			<id>JBoss Repository</id>
-			<url>http://repository.jboss.org/nexus/content/groups/public-jboss/</url>
+			<url>https://repository.jboss.org/nexus/content/groups/public-jboss/</url>
 		</repository>
 		<repository>
 			<id>jrimum.org</id>
-			<url>http://jrimum.org/maven/content/groups/public/</url>
+			<url>https://jrimum.org/maven/content/groups/public/</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
