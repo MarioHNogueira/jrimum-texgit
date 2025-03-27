@@ -5,7 +5,7 @@
 	<groupId>org.jrimum</groupId>
 	<artifactId>jrimum-texgit</artifactId>
 	<name>Projeto Texgit</name>
-	<version>0.2.4</version>
+	<version>0.2.4-j7</version>
 	<description>Projeto open source de componentes de software para o domínio de negócios do Brasil.</description>
 	<url>http://www.jrimum.org/texgit</url>
 
@@ -65,8 +65,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
 				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
+					<source>1.7</source>
+					<target>1.7</target>
 				</configuration>
 			</plugin>
 			<plugin>
